@@ -31,3 +31,8 @@ print(x)
 ```sh
 streamlit run main.py
 ```
+
+# Ressources
+
+Deal with predict result =>
+https://docs.ultralytics.com/modes/predict/#inference-sources
